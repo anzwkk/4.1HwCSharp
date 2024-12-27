@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DayOfTheWeek\\DayOfTheWeek\\DayOfTheWeek.csproj",
+      "projectUniqueName": "D:\\DayOfTheWeek\\4.1HwCSharp\\DayOfTheWeek\\DayOfTheWeek.csproj",
       "projectName": "DayOfTheWeek",
-      "projectPath": "D:\\DayOfTheWeek\\DayOfTheWeek\\DayOfTheWeek.csproj",
+      "projectPath": "D:\\DayOfTheWeek\\4.1HwCSharp\\DayOfTheWeek\\DayOfTheWeek.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\DayOfTheWeek\\DayOfTheWeek\\obj\\",
+      "outputPath": "D:\\DayOfTheWeek\\4.1HwCSharp\\DayOfTheWeek\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+D:\DayOfTheWeek\4.1HwCSharp\DayOfTheWeek\bin\Debug\net8.0\DayOfTheWeek.exe
+D:\DayOfTheWeek\4.1HwCSharp\DayOfTheWeek\bin\Debug\net8.0\DayOfTheWeek.deps.json
+D:\DayOfTheWeek\4.1HwCSharp\DayOfTheWeek\bin\Debug\net8.0\DayOfTheWeek.runtimeconfig.json
+D:\DayOfTheWeek\4.1HwCSharp\DayOfTheWeek\bin\Debug\net8.0\DayOfTheWeek.dll
+D:\DayOfTheWeek\4.1HwCSharp\DayOfTheWeek\bin\Debug\net8.0\DayOfTheWeek.pdb
+D:\DayOfTheWeek\4.1HwCSharp\DayOfTheWeek\obj\Debug\net8.0\DayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\DayOfTheWeek\4.1HwCSharp\DayOfTheWeek\obj\Debug\net8.0\DayOfTheWeek.AssemblyInfoInputs.cache
+D:\DayOfTheWeek\4.1HwCSharp\DayOfTheWeek\obj\Debug\net8.0\DayOfTheWeek.AssemblyInfo.cs
+D:\DayOfTheWeek\4.1HwCSharp\DayOfTheWeek\obj\Debug\net8.0\DayOfTheWeek.csproj.CoreCompileInputs.cache
+D:\DayOfTheWeek\4.1HwCSharp\DayOfTheWeek\obj\Debug\net8.0\DayOfTheWeek.sourcelink.json
+D:\DayOfTheWeek\4.1HwCSharp\DayOfTheWeek\obj\Debug\net8.0\DayOfTheWeek.dll
+D:\DayOfTheWeek\4.1HwCSharp\DayOfTheWeek\obj\Debug\net8.0\refint\DayOfTheWeek.dll
+D:\DayOfTheWeek\4.1HwCSharp\DayOfTheWeek\obj\Debug\net8.0\DayOfTheWeek.pdb
+D:\DayOfTheWeek\4.1HwCSharp\DayOfTheWeek\obj\Debug\net8.0\DayOfTheWeek.genruntimeconfig.cache
+D:\DayOfTheWeek\4.1HwCSharp\DayOfTheWeek\obj\Debug\net8.0\ref\DayOfTheWeek.dll
